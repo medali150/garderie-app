@@ -19,7 +19,7 @@ export default function Navbar() {
         <a className="navbar-brand d-flex align-items-center gap-2 fw-bold text-warning-emphasis" href="#accueil">
           <span className="fs-3" aria-hidden="true">🌞</span>
           <span>
-            {garderie ? garderie.nom : <span className="spinner-border spinner-border-sm" aria-label="Chargement du nom" />}
+            {garderie ? garderie.nom : !error && <span className="spinner-border spinner-border-sm" aria-label="Chargement du nom" />}
           </span>
         </a>
         {error && <div className="alert alert-danger py-1 px-2 mb-0 me-2 small" role="alert">{error}</div>}
