@@ -3,3 +3,32 @@
   padding: 0;
   margin: 0;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #fff8e7 0%, #fff0e6 100%);
+}
+
+.hero-image-wrapper {
+  background-color: #ffe2a9;
+}
+
+.service-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 1rem 3rem rgba(33, 37, 41, 0.12) !important;
+}
+
+.service-icon {
+  font-size: 2.75rem;
+}
+
+.activity-section {
+  background-color: #e8f7f2;
+}
