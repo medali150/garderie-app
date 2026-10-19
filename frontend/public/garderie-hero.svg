@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Les Petits Soleils</title>
+  <desc id="desc">Illustration colorée d'enfants qui jouent dans une garderie.</desc>
+  <rect width="800" height="560" fill="#ffe2a9"/>
+  <circle cx="650" cy="112" r="58" fill="#ffc107"/>
+  <path d="M0 390c120-80 220-72 350 0s260 85 450-10v180H0z" fill="#9bd8c4"/>
+  <path d="M0 455c150-70 260-45 385 8s270 53 415-10v107H0z" fill="#72bfa9"/>
+  <circle cx="274" cy="270" r="66" fill="#f2b48c"/>
+  <path d="M207 258c6-70 132-82 143 8-28-25-85-28-143-8z" fill="#6b4434"/>
+  <path d="M205 345c20-46 116-46 140 0v88H205z" fill="#ff8c69"/>
+  <circle cx="254" cy="274" r="7" fill="#3d3d3d"/>
+  <circle cx="302" cy="274" r="7" fill="#3d3d3d"/>
+  <path d="M267 300c10 10 20 10 30 0" fill="none" stroke="#b65b52" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="505" cy="290" r="62" fill="#c98762"/>
+  <path d="M445 279c15-73 118-69 126 3-33-22-86-24-126-3z" fill="#4d392e"/>
+  <path d="M440 357c33-48 111-44 136 0v79H440z" fill="#78a8e8"/>
+  <circle cx="483" cy="294" r="7" fill="#3d3d3d"/>
+  <circle cx="529" cy="294" r="7" fill="#3d3d3d"/>
+  <path d="M494 318c10 10 20 10 30 0" fill="none" stroke="#8b4d42" stroke-width="5" stroke-linecap="round"/>
+  <path d="M365 420c-45-45-78-35-86 0 26-12 55-10 86 0z" fill="#f8d477"/>
+  <circle cx="104" cy="112" r="27" fill="#fff" opacity=".7"/>
+  <circle cx="143" cy="112" r="36" fill="#fff" opacity=".7"/>
+  <circle cx="182" cy="112" r="25" fill="#fff" opacity=".7"/>
+</svg>
